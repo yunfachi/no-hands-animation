@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/example/mixin/client/ExampleClientMixin": {
+      "setAngles(Lnet/minecraft/entity/LivingEntity;FFFFF)V": "Lnet/minecraft/class_572;method_17087(Lnet/minecraft/class_1309;FFFFF)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/example/mixin/client/ExampleClientMixin": {
+        "setAngles(Lnet/minecraft/entity/LivingEntity;FFFFF)V": "Lnet/minecraft/class_572;method_17087(Lnet/minecraft/class_1309;FFFFF)V"
+      }
+    }
+  }
+}
