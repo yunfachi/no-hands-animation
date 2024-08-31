@@ -1,4 +1,0 @@
-/summon minecraft:zombie
-/tp ~ ~ ~ 165 0
-/tp @p ~ ~ ~ 165 0
-/time set day
